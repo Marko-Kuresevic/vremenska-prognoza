@@ -1,0 +1,25 @@
+.item {
+    color: white;
+    cursor: pointer;
+}
+
+.item.selected {
+    color: #e6f7ff;
+}
+
+.input {    
+  width: 100%;
+  border: 1px solid #d9d9d9;
+  border-radius: 4px;
+  padding: 4px 11px;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.input.error {
+    color: rgb(160, 31, 31);
+}
+
+.errorMessage {
+    color: rgb(160, 31, 31);
+}

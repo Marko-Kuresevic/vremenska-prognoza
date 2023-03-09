@@ -1,0 +1,32 @@
+ .th {
+    font-weight: bold;
+    font-size: larger;
+    background-color: rgb(63, 63, 133);
+    color: rgb(6, 5, 51);
+    text-align: center;
+  }
+
+  .center {
+    text-align: center;
+  }
+  
+  .button {
+    margin: 20 15px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    height: 50px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+  }
+  
+  .tableStyles.button:hover {
+    background-color: rgb(70, 70, 177);
+  }
+  
+  .active {
+    background-color: rgb(44, 44, 148);
+    color: white;
+  }
+  
